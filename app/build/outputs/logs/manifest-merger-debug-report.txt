@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml
+	minSdkVersion
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:10:12-29
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:12:22-65
+supports-screens
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:14:5-19:33
+	android:largeScreens
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:15:5-32
+	android:smallScreens
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:17:5-32
+	android:normalScreens
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:16:5-33
+	android:resizeable
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:18:5-30
+	android:anyDensity
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:19:5-30
+application
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:21:5-41:19
+	android:label
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:22:9-42
+activity#com.avsw.com.flavor.chatonbluetooth.SplashActivity
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:25:13-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:26:12-29:28
+action#android.intent.action.MAIN
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.avsw.com.flavor.chatonbluetooth.BluetoothChat
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:31:10-34:31
+	android:label
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:32:19-51
+	android:configChanges
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:33:19-69
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:31:20-84
+activity#com.avsw.com.flavor.chatonbluetooth.DeviceListActivity
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:35:9-38:72
+	android:label
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:36:19-56
+	android:configChanges
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:38:19-69
+	android:theme
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:37:19-62
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:35:19-88
+activity#com.google.ads.AdActivity
+ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:39:9-40:68
+	android:configChanges
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:40:16-66
+	android:name
+		ADDED from C:\Working2018\Projects\ATT_ECE\sourcecodes\ChatOnBluetooth\app\src\main\AndroidManifest.xml:39:19-59

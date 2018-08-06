@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_message.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plistselector.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable\\plistselector.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\menu_option_menu.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nlistselector.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable\\nlistselector.xml"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_app_icon.png.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\drawable-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_title.xml.flat",
+        "source": "C:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\src\\main\\res\\layout\\custom_title.xml"
+    }
+]

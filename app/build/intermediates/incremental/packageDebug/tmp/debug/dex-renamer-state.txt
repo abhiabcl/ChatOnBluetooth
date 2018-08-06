@@ -1,0 +1,4 @@
+#Mon Aug 06 11:44:44 EDT 2018
+base.0=C\:\\Working2018\\Projects\\ATT_ECE\\sourcecodes\\ChatOnBluetooth\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
